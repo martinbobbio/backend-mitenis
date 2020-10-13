@@ -1,0 +1,47 @@
+{"message":"Backend Mi Tenis v1.0.0 running in undefined mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in undefined mode on Port: 8082","level":"info"}
+{"message":"\u001b[0mGET / \u001b[33m404\u001b[0m 5.371 ms - 139\u001b[0m","level":"info"}
+{"message":"\u001b[0mGET /api/club \u001b[33m404\u001b[0m 0.609 ms - 147\u001b[0m","level":"info"}
+{"level":"error","message":"The \"url\" argument must be of type string. Received type undefined"}
+{"message":"\u001b[0mGET /api/clubs \u001b[31m503\u001b[0m 13.978 ms - 109\u001b[0m","level":"info"}
+{"message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 0.729 ms - 150\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in undefined mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in undefined mode on Port: 8082","level":"info"}
+{"level":"error","message":"The \"url\" argument must be of type string. Received type undefined"}
+{"message":"\u001b[0mGET /api/clubs \u001b[31m503\u001b[0m 7.708 ms - 109\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"level":"error","message":"Cannot read property '0' of undefined"}
+{"message":"\u001b[0mGET /api/clubs \u001b[31m503\u001b[0m 1318.442 ms - 78\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs \u001b[32m200\u001b[0m 559.783 ms - 15782\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs \u001b[32m200\u001b[0m 1115.215 ms - 15782\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs \u001b[32m200\u001b[0m 549.044 ms - 15769\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs/a/%7Blng%7D \u001b[32m200\u001b[0m 1331.851 ms - 15768\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs/-34.583874/-58.6560006 \u001b[32m200\u001b[0m 1039.151 ms - 15768\u001b[0m","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,{lng}&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs/-34.583874/%7Blng%7D \u001b[32m200\u001b[0m 560.391 ms - 64\u001b[0m","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,a&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs/-34.583874/a \u001b[32m200\u001b[0m 544.532 ms - 64\u001b[0m","level":"info"}
+{"message":"(GOOGLE MAP CLUB TENIS)\nSTATUS: 200\nURL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-34.583874,-58.6560006&radius=5000&name=tenis&key=AIzaSyAQZGWfnDR3C28jqGEiJqEQT4BvTXRy_bM\nMETHOD: get\nDATA: [object Object]","level":"info"}
+{"message":"\u001b[0mGET /api/clubs/-34.583874/-58.6560006 \u001b[32m200\u001b[0m 563.528 ms - 15768\u001b[0m","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}
+{"message":"Backend Mi Tenis v1.0.0 running in local mode on Port: 8082","level":"info"}

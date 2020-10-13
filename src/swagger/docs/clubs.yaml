@@ -1,0 +1,29 @@
+---
+/clubs/{lat}/{lng}:
+  get:
+    tags:
+      - name: 'Clubes cercanos'
+    description: Clubes
+    summary: Obtener información de los clubes cercanos
+    parameters:
+        - in: path
+          name: lat
+          schema:
+            type: string
+          required: true
+        - in: path
+          name: lng
+          schema:
+            type: string
+          required: true
+    responses:
+      200:
+        description: Success response
+        content:
+          application/json:
+            schema:
+            type: object
+            properties:
+              token:
+                type: string
+                description: testt

@@ -1,0 +1,46 @@
+{
+  "name": "mitenis_backend",
+  "version": "1.0.0",
+  "description": "Servidor para Mi Tenis",
+  "scripts": {
+    "start": "nodemon --inspect=0.0.0.0:9228 ./src/server.js",
+    "startdev": "SET NODE_ENV=localdev&& nodemon ./src/server.js",
+    "startqas": "SET NODE_ENV=localqas&& nodemon ./src/server.js",
+    "build": "exit 0",
+    "lint": "npx eslint src/**/*.js --fix",
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "axios": "^0.19.2",
+    "blob": "^0.1.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "moment": "^2.27.0",
+    "morgan": "^1.9.1",
+    "nodemailer": "^6.4.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.3",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "chai": "*",
+    "chai-http": "^4.3.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "husky": "^2.7.0",
+    "lint-staged": "^10.0.7",
+    "live-server": "^1.2.1",
+    "mocha": "^7.0.1",
+    "mochawesome": "^5.0.0",
+    "nodemon": "^2.0.2"
+  }
+}
