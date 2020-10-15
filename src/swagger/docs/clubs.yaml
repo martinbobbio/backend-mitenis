@@ -2,7 +2,7 @@
 /clubs/{lat}/{lng}:
   get:
     tags:
-      - name: 'Clubes cercanos'
+      - name: 'Clubes cercanoss'
     description: Clubes
     summary: Obtener información de los clubes cercanos
     parameters:
