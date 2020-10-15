@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Servidor para Mi Tenis",
   "scripts": {
-    "start": "nodemon --inspect=0.0.0.0:9228 ./src/server.js",
+    "start": "node ./src/server.js",
     "startdev": "SET NODE_ENV=localdev&& nodemon ./src/server.js",
     "startqas": "SET NODE_ENV=localqas&& nodemon ./src/server.js",
     "build": "exit 0",
