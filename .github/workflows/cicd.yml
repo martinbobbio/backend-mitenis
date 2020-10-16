@@ -47,5 +47,5 @@ jobs:
           heroku_app_name: "martinbobbio-mitenis"
           heroku_email: "martinbobbio1@gmail.com"
         env:
-          TEST1: ${{secrets.TEST}}
-          TEST2: "Hello"
+          HD_TEST1: ${{secrets.TEST}}
+          HD_TEST2: "Hello"
