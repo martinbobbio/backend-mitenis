@@ -8,9 +8,6 @@ const errorHandler = require('./middlewares/error.middleware');
 const logger = require('./utils/logger');
 const clubRoute = require('./routes/club/club.routes');
 
-let asd = 'a'
-console.log(asd)
-
 require('colors').enable();
 
 dotenv.config({ path: '.env' });
