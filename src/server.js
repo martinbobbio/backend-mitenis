@@ -41,8 +41,6 @@ app.get('/health', (req, res) => res.json({ success: 'true' }));
 
 app.use(errorHandler);
 
-const test = 'asd'
-
 const server = app.listen(PORT, () => {
   logger.info(`Backend Mi Tenis v${pjson.version} running in ${process.env.NODE_ENV} mode on Port: ${PORT}`);
 });
