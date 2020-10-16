@@ -6,11 +6,11 @@ const swagger = require('./swagger');
 const pjson = require('../package.json');
 const errorHandler = require('./middlewares/error.middleware');
 const logger = require('./utils/logger');
-const clubRoute = require('./routes/club/club.routes');
+let clubRoute = require('./routes/club/club.routes');
 
 require('colors').enable();
 
-dotenv.config({ path: '.env' });
+dotenxv.config({ path: '.env' });
 
 const app = express();
 const PORT = process.env.PORT || 8082;
