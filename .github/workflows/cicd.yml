@@ -47,5 +47,8 @@ jobs:
           heroku_app_name: "martinbobbio-mitenis"
           heroku_email: "martinbobbio1@gmail.com"
         env:
-          HD_TEST1: ${{secrets.TEST}}
-          HD_TEST2: "Hello"
+          HD_URL_GOOGLE_PLACES: ${{secrets.URL_GOOGLE_PLACES}}
+          HD_TOKEN_GOOGLE_MAPS: ${{secrets.TOKEN_GOOGLE_MAPS}}
+          HD_HOST: ${{secrets.HOST}}
+          HD_NODE_ENV: ${{secrets.NODE_ENV}}
+          HD_TEST: "Hello"
