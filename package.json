@@ -1,6 +1,6 @@
 {
   "name": "mitenis_backend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Servidor para Mi Tenis",
   "scripts": {
     "start": "node ./src/server.js",
