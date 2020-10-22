@@ -45,6 +45,8 @@ const server = app.listen(PORT, () => {
   logger.info(`Backend Mi Tenis v${pjson.version} running in ${process.env.NODE_ENV} mode on Port: ${PORT}`);
 });
 
+const test = true
+
 module.exports = {
   app,
   server
