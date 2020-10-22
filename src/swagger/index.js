@@ -4,7 +4,7 @@ const pjson = require('../../package.json');
 
 const swaggerDefinition = {
   info: {
-    title: 'Servidor Mi Tenis',
+    title: 'Servidor Mi Tenis.',
     version: pjson.version,
     description: pjson.description
   },
